@@ -6,9 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+#cumstom
+vgg19.npy
+dataset/
+temp/
+
 # Distribution / packaging
 .Python
-dataset/
 build/
 develop-eggs/
 dist/
